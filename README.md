@@ -1,2 +1,2 @@
-# Segment_falls
-This project aims to detect a fall of elder people who carry a sensor on their body in order to alert when a falling occurred. In this project I used machine learning tools in order to detect whether a record of 20 minutes of daily actions (such as walking around the house, driving, sitiing and typin ect.) contains a fall, and segments the minute that it occurred in. The records contains accelerometer, gyroscope ,pressure and temperature sensors. 
+# Falls_detection
+This project aims to detect a fall of eldery who carry a sensor on their body in order to alert when a falling occurred. In this project I used machine learning tools in order to detect whether a record of 20 minutes of daily actions (such as walking around the house, driving, sitiing and typin ect.) contains a fall, and segments the minute that it occurred in. The records contains accelerometer, gyroscope ,pressure and temperature sensors. 
